@@ -13,7 +13,8 @@ author_profile: true
 
 ![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height="100%"}
 
-#####  **인마상** : 아주인의 늠름한 기상을 잘 보여주는 상징물이다
+ <p style="font-size: 15px"> 인마상은 아주인의 늠름한 기상을 잘 보여주는 상징물이다.</p>
+
 ### Team Members
 
 | 역할 | 이름 | 학과 |  각자 한마디 |
