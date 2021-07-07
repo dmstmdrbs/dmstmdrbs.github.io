@@ -7,7 +7,7 @@ author_profile: true
 ## 우리 팀은 멋집니다.
 ####  기대하세요
 
-![picture](https://github.com/unlimit13/dmstmdrbs.github.io/tree/main/image/캡처.png)
+![picture](https://github.com/dmstmdrbs/dmstmdrbs.github.io/blob/main/image/horse.jpg)
 
 ### Team Members
 
