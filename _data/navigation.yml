@@ -8,6 +8,10 @@ main:
   #
   - title: "박주원 page"
     url: /mypage/
+  #
+  - title: "은승균 page"
+    url: /seunggyun/
+  
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
