@@ -3,15 +3,18 @@ layout: home
 author_profile: true
 ---
 
-# Team Blog
-## 2021-여름학기 실전코딩 1
-### 아주대학교 소프트웨어학과
-#### Team 6
+#### 2021-여름학기 실전코딩 1
+##### 아주대학교 소프트웨어학과
+
+<br>
+
+# Team 6's Blog
 
 <br>
 
 ![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height="100%"}
 
+##### **인마상** : 아주인의 늠름한 기상을 잘 보여주는 상징물이다
 ### Team Members
 
 | 역할 | 이름 | 학과 |  각자 한마디 |
