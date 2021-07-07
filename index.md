@@ -12,8 +12,12 @@ author_profile: true
 
 ![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height="100%"}
 
- <p style="font-size : 20px; text-align : center;">인마상</p>
- <p style="font-size: 15px;text-align : center;"> 인마상은 아주인의 늠름한 기상을 잘 보여주는 상징물이다.</p>
+ <p style="text-align : center;">
+    <span style="font-size : 20px;">인마상</span>
+    <br>
+    <span style="font-size: 15px;">인마상은 아주인의 늠름한 기상을 잘 보여주는 상징물이다.</span>
+ </p>
+
 
 ### Team Members
 
