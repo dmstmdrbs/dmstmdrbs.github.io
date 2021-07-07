@@ -4,8 +4,8 @@ author_profile: true
 ---
 
 
-## 우리 팀은 멋집니다.
-####  기대하세요
+## 아주대학교 소프트웨어학과 2021-여름학기 실전코딩 1
+####  6조
 
 ![picture](https://github.com/dmstmdrbs/dmstmdrbs.github.io/blob/main/image/horse.jpg)
 
