@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 ---
 
+# Team Blog
 ## 2021-여름학기 실전코딩 1
 ### 아주대학교 소프트웨어학과
 #### Team 6
