@@ -8,6 +8,7 @@ author_profile: true
 ####  기대하세요
 
 ![picture](https://cdn.pixabay.com/photo/2020/10/14/19/49/santorini-5655299_960_720.jpg)
+![fbad6177d4e926f168acf9cb24538d81298a1384](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg)
 
 ### Team Members
 
