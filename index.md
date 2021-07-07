@@ -2,9 +2,8 @@
 layout: home
 author_profile: true
 ---
+<p style="font-size : 15px">2021-여름학기 실전코딩 1</p>
 
-아주대학교 소프트웨어학과    
-2021-여름학기 실전코딩 1
 
 
 # Team 6's Blog
