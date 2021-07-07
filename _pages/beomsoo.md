@@ -1,5 +1,5 @@
 ---
-permalink: /mypage/
+permalink: /beomsoo/
 ---
 
 ### Introduction
