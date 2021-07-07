@@ -3,9 +3,11 @@ layout: home
 author_profile: true
 ---
 
+## 2021-여름학기 실전코딩 1
+### 아주대학교 소프트웨어학과
+#### Team 6
 
-## 아주대학교 소프트웨어학과 2021-여름학기 실전코딩 1
-####  6조
+<br>
 
 ![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height="100%"}
 
