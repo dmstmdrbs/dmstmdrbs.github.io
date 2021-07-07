@@ -5,7 +5,9 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "갑순이 소개"
     url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  #
+  - title: "박주원 page"
+    url: /mypage/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
