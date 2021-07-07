@@ -9,6 +9,9 @@ main:
   - title: "조형준 page"
     url: /hyungjun/
 
+  - title: "허범수 page"
+    url: /beomsoo/
+
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
