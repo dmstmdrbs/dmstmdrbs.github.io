@@ -1,18 +1,12 @@
 # main links
 main:
-  - title: "갑돌이 소개"
-    url: /hello/
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "갑순이 소개"
-    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #
   - title: "박주원 page"
     url: /mypage/
   #
   - title: "은승균 page"
     url: /seunggyun/
   #
-  - title: "조형준" page"
+  - title: "조형준 page"
     url: /hyungjun/
 
   - title: "허범수 page"
