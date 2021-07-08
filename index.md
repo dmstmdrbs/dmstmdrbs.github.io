@@ -2,14 +2,18 @@
 layout: home
 author_profile: true
 ---
-<p style="font-size : 15px">2021-여름학기 실전코딩 1</p>
-
-
+<p style="font-size : 15px">아주대학교 여름학기 실전코딩!</p>
 
 # Team 6's Blog
 
+<br/>
+
+####  저희 홈페이지 입니다.
+###   기대하세요
+
 <br>
 
+![picture](https://cdn.pixabay.com/photo/2020/10/14/19/49/santorini-5655299_960_720.jpg)
 ![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height="100%"}
 
  <p style="text-align : center;">
@@ -17,6 +21,7 @@ author_profile: true
     <br>
     <span style="font-size: 15px;">인마상은 아주인의 늠름한 기상을 잘 보여주는 상징물이다.</span>
  </p>
+
 
 
 ### Team Members
