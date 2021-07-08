@@ -15,7 +15,8 @@ author_profile: true
 
 <br>
 
-![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="80%" height=80%"}
+![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="100%" height=100%"}
+
 
  <p style="text-align : center;">
     <span style="font-size : 20px;">인마상</span>
