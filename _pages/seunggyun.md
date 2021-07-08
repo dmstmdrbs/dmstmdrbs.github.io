@@ -2,7 +2,7 @@
 permalink: /seunggyun/
 ---
 
-<p style="font-size:15px;">Member Page</p>
+<p style="font-size:20px;">Member Page</p>
 
 ## 소개
 
