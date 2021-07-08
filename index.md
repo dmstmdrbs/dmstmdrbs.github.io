@@ -15,7 +15,7 @@ author_profile: true
 
 <br>
 <div style = "text-align : center;">
-   <img src="../image/horse.png" height=800 width=600>
+   <img src="https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg" height=800 width=600>
 </div>
 
  <p style="text-align : center;">
