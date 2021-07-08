@@ -32,5 +32,3 @@ author_profile: true
 | 조원 |  [**박주원**](https://dmstmdrbs.github.io/joowon)   | 소프트웨어학과 | 치킨이 너무나도 먹고 싶은 날씨네영  |
 | 조원 | [**조형준**](https://dmstmdrbs.github.io/hyungjun)  | 소프트웨어학과 |           잘 부탁드립니다           |
 | 조원 |  [**허범수**](https://dmstmdrbs.github.io/beomsoo)  | 소프트웨어학과 |          실전코딩1 화이팅           |
-
-[1]
