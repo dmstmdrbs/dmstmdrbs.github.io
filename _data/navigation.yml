@@ -1,13 +1,16 @@
 # main links
 main:
-  - title: "박주원 page"
+  - title: "박주원"
     url: /mypage/
   #
-  - title: "은승균 page"
+  - title: "은승균"
     url: /seunggyun/
   #
-  - title: "조형준 page"
+  - title: "조형준"
     url: /hyungjun/
+
+  - title: "허범수"
+    url: /beomsoo/
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
