@@ -14,7 +14,9 @@ author_profile: true
 ### 기대하세요
 
 <br>
-<center><img src="../image/horse.png" height=800 width=600></center>
+<div style = "text-align : center;">
+   <img src="../image/horse.png" height=800 width=600>
+</div>
 
  <p style="text-align : center;">
     <span style="font-size : 20px;">인마상</span>
