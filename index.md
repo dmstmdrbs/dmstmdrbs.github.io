@@ -14,9 +14,8 @@ author_profile: true
 ### 기대하세요
 
 <br>
-<div style = "text-align : center;">
-   <img src="https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg" height=800 width=600>
-</div>
+
+![picture](https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg){: width="80%" height=80%"}
 
  <p style="text-align : center;">
     <span style="font-size : 20px;">인마상</span>
