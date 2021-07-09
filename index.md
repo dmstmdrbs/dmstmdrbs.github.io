@@ -9,12 +9,12 @@ author_profile: true
 
 <br/>
 
-#### 저희 홈페이지 입니다.
+### 실전코딩 1 6조 팀원들이 함께 만들어가는 블로그입니다!
 
-### 기대하세요
+#### 저희는 아주대학교 소프트웨어학과 학생 4명으로 구성된 팀입니다.
 
 <br>
-<div style = "text-align : center;">
+<div style = "text-align : center; width:70vh; height:80vh;">
    <img src="https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg" height=800 width=600>
 </div>
 
