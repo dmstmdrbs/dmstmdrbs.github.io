@@ -37,7 +37,9 @@ permalink: /seunggyun/
     </tr>
 </table>
 
-[![Gmail Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/dmstmdrbs) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs98@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Github_1-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/dmstmdrbs)
+[![Gmail Badge](https://img.shields.io/badge/-Github_2-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/Seunggyun98)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs98@gmail.com)
 
 <br/>
 
