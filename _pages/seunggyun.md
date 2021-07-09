@@ -38,7 +38,8 @@ permalink: /seunggyun/
 </table>
 
 [![Gmail Badge](https://img.shields.io/badge/-Github_1-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/dmstmdrbs)
-[![Gmail Badge](https://img.shields.io/badge/-Github_2-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/Seunggyun98)
+[![Gmail Badge](https://img.shields.io/badge/-Github_2-black?style=flat-square&logo=github&link=https://github.com/Seunggyun98)](https://github.com/Seunggyun98)
+[![Gmail Badge](https://img.shields.io/badge/Ajou_mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs@ajou.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs98@gmail.com)
 
 <br/>
@@ -68,7 +69,15 @@ permalink: /seunggyun/
 
 #### 🎧좋아하는 가수
 
-- 아이유
+- **아이유**
+
+  좋아하는 앨범
+
+|                                                 LILAC                                                  |                                                Love Poem                                                 |                                                 Palette                                                 |                                                CHAT-SHIRE                                                 |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![LIALAC](https://musicmeta-phinf.pstatic.net/album/005/211/5211473.jpg?type=r360Fll&v=20210530230521) | ![LovePoem](https://musicmeta-phinf.pstatic.net/album/003/399/3399860.jpg?type=r360Fll&v=20210530010527) | ![Palette](https://musicmeta-phinf.pstatic.net/album/002/000/2000240.jpg?type=r360Fll&v=20210303080517) | ![CHAT SHIRE](https://musicmeta-phinf.pstatic.net/album/000/592/592471.jpg?type=r360Fll&v=20210305161450) |
+
+<img src="">
 
 #### 🎬좋아하는 영화
 
