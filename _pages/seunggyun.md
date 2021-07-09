@@ -58,6 +58,21 @@ permalink: /seunggyun/
 
 - 마블 시리즈
 
+<table style="text-align:center;">
+    <tr>
+        <td>아이언맨</td>
+        <td>스파이더맨</td>
+        <td>캡틴 아메리카 : 시빌 워</td>
+        <td>어벤져스 : 엔드게임</td>
+    </tr>
+    <tr>
+        <td><img src="http://img.movist.com/?img=/x00/05/12/35_p1.jpg"/></td>
+        <td><img src="http://img.movist.com/?img=/x00/05/13/00_p1.jpg"/></td>
+        <td><img src="http://ticketimage.interpark.com/Movie/still_image/V15/V1503079p_01.gif"/></td>
+        <td><img src="http://img.movist.com/?img=/x00/05/12/35_p1.jpg"/></td>
+    </tr>
+</table>
+
 <br/>
 
 ### 😨싫어하는 것
