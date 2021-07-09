@@ -6,26 +6,38 @@ permalink: /seunggyun/
 
 ## 소개
 
-<table>
+<table style="text-align:center;">
+    <tr>
+        <td rowspan="6">
+           <img src="../image/seunggyun.png">
+        </td>
+    </tr>
+    <tr>
+        <td>이름</td>
+        <td>은승균</td>
+    </tr>
     <tr>
         <td>
-           <img src="../image/seunggyun.png" style="width:200px;">
+            학과
         </td>
-        <td style="text-align:center;"> 
-            <p style=" font-size:15px;">
-                <span style="margin-bottom:5px;">은승균</span>
-                <br/>
-                <span style="margin-bottom:5px;">소프트웨어학과</span>
-                <br/>
-                <span style="margin-bottom:5px;">24살/남</span>
-            </p>
-            <br/>
-            <p>
-                <span>안녕하세요. 아주대 소프트웨어학과 재학중인 은승균입니다!</span>
+        <td>소프트웨어학과</td>   
+    </tr>
+    <tr>
+        <td>
+            나이
+        </td>
+        <td>24</td>   
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p style="text-align:left;">
+                    안녕하세요! 저는 아주대학교 소프트웨어학과에 재학중인 은승균입니다. 이 페이지에서는 저에 대해서 좀 더 많은 정보를 확인하실 수 있습니다. 재밌게 봐주세요!
             </p>
         </td>
     </tr>
 </table>
+
+[![Gmail Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/dmstmdrbs) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs98@gmail.com)
 
 <br/>
 
