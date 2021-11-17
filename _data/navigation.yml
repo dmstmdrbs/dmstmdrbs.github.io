@@ -1,17 +1,9 @@
 # main links
 main:
-  - title: "박주원"
-    url: /joowon/
   #
   - title: "은승균"
     url: /seunggyun/
   #
-  - title: "조형준"
-    url: /hyungjun/
-
-  - title: "허범수"
-    url: /beomsoo/
-
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
