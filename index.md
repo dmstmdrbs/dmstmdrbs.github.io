@@ -1,37 +1,141 @@
 ---
-layout: home
-author_profile: true
+permalink: /seunggyun/
 ---
 
-<p style="font-size : 15px">아주대학교 여름학기 실전코딩!</p>
+<p style="font-size:20px;">Member Page</p>
 
-# Team 6's Blog
+## 소개
+
+<table style="text-align:center;">
+    <tr>
+        <td rowspan="6">
+           <img src="../image/seunggyun.png">
+        </td>
+    </tr>
+    <tr>
+        <td>이름</td>
+        <td>은승균</td>
+    </tr>
+    <tr>
+        <td>
+            학과
+        </td>
+        <td>소프트웨어학과</td>   
+    </tr>
+    <tr>
+        <td>
+            나이
+        </td>
+        <td>24</td>   
+    </tr>
+    <tr>
+        <td colspan="2">
+            <p style="text-align:left;">
+                    안녕하세요! 저는 아주대학교 소프트웨어학과에 재학중인 은승균입니다. 이 페이지에서는 저에 대해서 좀 더 많은 정보를 확인하실 수 있습니다. 재밌게 봐주세요!
+            </p>
+        </td>
+    </tr>
+</table>
+
+[![Gmail Badge](https://img.shields.io/badge/-Github_1-black?style=flat-square&logo=github&link=https://github.com/dmstmdrbs)](https://github.com/dmstmdrbs)
+[![Gmail Badge](https://img.shields.io/badge/-Github_2-black?style=flat-square&logo=github&link=https://github.com/Seunggyun98)](https://github.com/Seunggyun98)
+[![Gmail Badge](https://img.shields.io/badge/Ajou_mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs@ajou.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmstmdrbs98@gmail.com)
 
 <br/>
 
-### 실전코딩 1 6조 팀원들이 함께 만들어가는 블로그입니다!
+### 👍좋아하는 것
 
-##### 저희는 아주대학교 소프트웨어학과 학생 4명으로 구성된 팀입니다.
+---
 
-<br>
-<div style = "text-align : center; width:70vh; height:80vh;">
-   <img src="https://user-images.githubusercontent.com/62550918/124729730-a93fbd00-df4b-11eb-9427-c9b4a87fe400.jpeg" height=800 width=600>
-</div>
+#### 💪헬스
 
-<br>
-<br>
+- 성장중인 헬린이🏋️‍♀️
+- 3대 380
+- **S**:135kg / **B**:100kg / **D**:145kg
 
- <p style="text-align : center;">
-    <span style="font-size : 20px;">인마상</span>
-    <br>
-    <span style="font-size: 15px;">인마상은 아주인의 늠름한 기상을 잘 보여주는 상징물이다.</span>
- </p>
+#### 🚴‍♀️자전거
 
-### Team Members
+- 아주대학교 중앙동아리 ROA로 오세요~
 
-| 역할 |                        이름                         |      학과      |             각자 한마디             |
-| :--: | :-------------------------------------------------: | :------------: | :---------------------------------: |
-| 조장 | [**은승균**](https://dmstmdrbs.github.io/seunggyun) | 소프트웨어학과 | 실전코딩 너무 재밌을 것 같아요 ㅎㅎ |
-| 조원 |  [**박주원**](https://dmstmdrbs.github.io/joowon)   | 소프트웨어학과 | 치킨이 너무나도 먹고 싶은 날씨네영  |
-| 조원 | [**조형준**](https://dmstmdrbs.github.io/hyungjun)  | 소프트웨어학과 |           잘 부탁드립니다           |
-| 조원 |  [**허범수**](https://dmstmdrbs.github.io/beomsoo)  | 소프트웨어학과 |          실전코딩1 화이팅           |
+#### 🍕먹는 것
+
+- 고기가 좋아요🥩
+- 단백질이 풍부한 음식을 먹으려고 해요
+
+#### 💰월급
+
+- 월급날만 기다려요 ㅠㅠ
+
+#### 🎧좋아하는 가수
+
+- **아이유**
+
+  좋아하는 앨범
+
+|                                                 LILAC                                                  |                                                Love Poem                                                 |                                                 Palette                                                 |                                                CHAT-SHIRE                                                 |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![LIALAC](https://musicmeta-phinf.pstatic.net/album/005/211/5211473.jpg?type=r360Fll&v=20210530230521) | ![LovePoem](https://musicmeta-phinf.pstatic.net/album/003/399/3399860.jpg?type=r360Fll&v=20210530010527) | ![Palette](https://musicmeta-phinf.pstatic.net/album/002/000/2000240.jpg?type=r360Fll&v=20210303080517) | ![CHAT SHIRE](https://musicmeta-phinf.pstatic.net/album/000/592/592471.jpg?type=r360Fll&v=20210305161450) |
+
+<img src="">
+
+#### 🎬좋아하는 영화
+
+- 마블 시리즈
+
+<table style="text-align:center; font-size:15px;">
+    <tr>
+        <td>아이언맨</td>
+        <td>스파이더맨</td>
+        <td>캡틴 아메리카 <br/> 시빌 워</td>
+        <td>어벤져스 <br> 엔드게임</td>
+    </tr>
+    <tr>
+        <td><img src="http://ticketimage.interpark.com/Movie/still_image/V13/V1300714p_01.gif"/></td>
+        <td><img src="http://img.movist.com/?img=/x00/05/13/00_p1.jpg"/></td>
+        <td><img src="http://ticketimage.interpark.com/Movie/still_image/V15/V1503079p_01.gif"/></td>
+        <td><img src="http://img.movist.com/?img=/x00/05/12/35_p1.jpg"/></td>
+    </tr>
+</table>
+
+<br/>
+
+### 😨싫어하는 것
+
+---
+
+1. 오이
+2. 여름
+3. 개강
+
+<br/>
+
+### 🎥재미있게 본 영화
+
+---
+
+1. 마블 시네마틱 시리즈
+2. 인터스텔라
+3. 인셉션
+4. 헝거게임 시리즈
+
+<br/>
+
+### 💻관심 기술 스택
+
+---
+
+- WEB 프론트엔드 - JavaScript, React.js, Vue.js
+- Python
+- Java, Kotlin
+- Flutter
+
+<br/>
+
+### 📖공부 중...
+
+---
+
+- React.js
+- React Native
+- Node.js
